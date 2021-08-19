@@ -2,6 +2,7 @@
 List of data science resources
 
 *ML*
+
 Microsoft ML for begginers
 https://github.com/microsoft/ML-For-Beginners
 
@@ -15,6 +16,7 @@ https://github.com/junpenglao/advance-bayesian-modelling-with-PyMC3/blob/master/
 https://blog.tensorflow.org/2019/03/variational-autoencoders-with.html
 
 *Causal stuff*
+
 Quite a detailed medium article
 https://towardsdatascience.com/beyond-a-b-testing-primer-on-causal-inference-d8e462d90a0b
 
@@ -23,6 +25,7 @@ https://mixtape.scunning.com/probability-and-regression.html
 
 
 *Experiment design and analysis*
+
 Some power analysis resources
 https://egap.org/resource/script-power-analysis-simulations-in-r/
 
@@ -32,7 +35,8 @@ https://arxiv.org/pdf/1607.00698.pdf
 CUPED
 https://exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf
 
-Explainability / Ethics
+*Explainability / Ethics*
+
 Graph reasoning
 https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 linked in fairness toolkit
