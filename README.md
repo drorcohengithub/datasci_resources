@@ -9,6 +9,9 @@ https://github.com/microsoft/ML-For-Beginners
 Massive list of everything ML and data science
 https://docs.google.com/document/d/1wvtcwc8LOb3PZI9huQOD7UjqUoY98N5r3aQsWKNAlzk/edit#heading=h.mgsvvhp3mmyz
 
+"This page is highly recommended for anyone who wants to start reading ‘classics’ in NLP."
+https://github.com/mhagiwara/100-nlp-papers
+
 ## Bayesian stuff 
 
 https://henryhammond.ghost.io/bayesian-t-test/
