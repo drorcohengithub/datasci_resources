@@ -44,3 +44,8 @@ Graph reasoning
 https://github.com/AstraZeneca/awesome-explainable-graph-reasoning
 linked in fairness toolkit
 https://engineering.linkedin.com/blog/2021/using-the-linkedin-fairness-toolkit-large-scale-ai
+
+
+## MISC
+Cool complext system simulations tool
+https://hash.ai/
