@@ -38,6 +38,10 @@ https://arxiv.org/pdf/1607.00698.pdf
 CUPED
 https://exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf
 
+Experimentation by Microsoft
+https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/it-takes-a-flywheel-to-fly-kickstarting-and-keeping-the-a-b-testing-momentum/
+
+
 ## Explainability / Ethics
 
 Graph reasoning
